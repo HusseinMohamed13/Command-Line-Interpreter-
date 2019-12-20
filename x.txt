@@ -1,0 +1,9 @@
+2019/10/28 13:38:02
+.classpath
+.project
+file.txt
+mynewfile.txt
+new.tx
+new.txt
+newmy.txt
+x.txt
